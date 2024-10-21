@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="text">
+        <item name="android:textSize">17sp</item>
+        <item name="android:paddingBottom">10dp</item>
+        <item name="android:textColor">@android:color/holo_green_dark</item>
+    </style>
+
+    <style name="input">
+        <item name="android:paddingBottom">20dp</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryDark">#3700B3</item>
+        <item name="colorAccent">#03DAC5</item>
+    </style>
+
+</resources>
