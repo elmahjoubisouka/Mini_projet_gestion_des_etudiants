@@ -87,5 +87,5 @@ Le projet inclut des fonctionnalités de création, modification, suppression et
    - Exécuter l'application et tester l'ajout, la récupération et la modification des étudiants.
 
 ## Demonstration
-
+https://github.com/user-attachments/assets/403ab722-6ecd-4233-9206-0df0e8e5e80f
 
